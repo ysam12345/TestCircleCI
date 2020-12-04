@@ -1,0 +1,8 @@
+import numpy as np
+
+def main():
+    a = np.Array([1,2,3,4,5])
+    print(a)
+
+if __name__ == "__main__":
+    main()
